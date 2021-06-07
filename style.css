@@ -729,17 +729,6 @@ label .menu {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
 html,
 body {
     height: 100%;
@@ -1047,4 +1036,13 @@ section {
 
 #carouselExampleCaptions{
     width: 500px;
+}
+.buttom-custom {
+    color: pink;
+    background-color: aqua;
+}
+.logo {
+    height: 50px;
+    width: 50px;
+    position:left;
 }
